@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://yuhuniwweq12.github.io/malangnews/schemas/sitemap/0.9">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://yuhuniwweq12.github.io/malangnews/
+</loc>
         <lastmod>2025-02-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://example.com/about</loc>
+        <loc>https://yuhuniwweq12.github.io/malangnews/
+about</loc>
         <lastmod>2025-02-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://example.com/news</loc>
+        <loc>https://yuhuniwweq12.github.io/malangnews/
+news</loc>
         <lastmod>2025-02-23</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://example.com/contact</loc>
+        <loc>https://yuhuniwweq12.github.io/malangnews/
+contact</loc>
         <lastmod>2025-02-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>

@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://yuhuniwweq12.github.io/malangnews/</loc>
-  <lastmod>2025-02-28T06:13:25+00:00</lastmod>
-</url>
-
-
-</urlset>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peta Situs</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: justify; }
+        h1 { text-align: center; color: #007bff; }
+        ul { list-style: none; padding: 0; }
+        li { margin: 10px 0; }
+        a { text-decoration: none; color: #333; font-weight: bold; }
+        a:hover { color: #007bff; }
+    </style>
+</head>
+<body>
+    <h1>Peta Situs</h1>
+    <ul>
+        <li><a href="https://yuhuniwweq12.github.io/malangnews/">Beranda</a></li>
+        <li><a href="https://yuhuniwweq12.github.io/malangnews/about">Tentang Kami</a></li>
+        <li><a href="https://yuhuniwweq12.github.io/malangnews/news">Berita</a></li>
+        <li><a href="https://yuhuniwweq12.github.io/malangnews/contact">Kontak</a></li>
+    </ul>
+</body>
+</html>

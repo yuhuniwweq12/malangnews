@@ -1,19 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-
-Sitemap: https://yuhuniwweq12.github.io/sitemap.xml
-
-# Biarkan Googlebot meng-crawl gambar & CSS/JS
-User-agent: Googlebot
-Allow: /images/
-Allow: /css/
-Allow: /js/
-
-# Khusus Google Discover
-User-agent: Googlebot-News
-Allow: /
-
-# Blokir halaman admin atau yang tidak perlu diindeks
-Disallow: /admin/
-Disallow: /private/
-Disallow: /tmp/
+Allow: /editor
+Allow: /templates
+Disallow: /bug-report
+Disallow: /survey

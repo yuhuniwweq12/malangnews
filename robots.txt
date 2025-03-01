@@ -1,4 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
+# https://yuhuniwweq12.github.io//robotstxt.html
 User-agent: *
 Allow: /
 Allow: /editor
